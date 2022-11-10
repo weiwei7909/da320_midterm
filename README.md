@@ -2,6 +2,8 @@
 
 Midterm project for DA 320 - MongoDB Notebooks
 
+[Project Github Repository Link](https://github.com/weiwei7909/da320_midterm)
+
 In this project, I have two Jupyter notebooks. One Jupyter notebook collects data from Metacritic and stores it into MongoDB.  And another Jupyter notebook reads the data from MongoDB and did some transformation and analysis.
 
 ## Compare movies from one year against another
